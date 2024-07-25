@@ -21,6 +21,7 @@ public class GetMostCommonFromMergeTest {
 
         // Then
         Assert.assertEquals(expected, actual);
+
     }
 
     @Test
